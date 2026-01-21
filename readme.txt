@@ -42,6 +42,8 @@ Spring Cloud 微服务集群
 
 ⸻
 
+需要完整源码联系tg: https://t.me/maotouying_cc
+
 三、后端技术架构（你给定的技术栈）
 
 ✅ 基础技术栈
@@ -137,6 +139,8 @@ Gateway	API网关
 	•	权限角色（RBAC）
 
 ⸻
+
+查看演示站联系 https://t.me/maotouying_cc
 
 四、消息 & 高并发设计
 
@@ -240,3 +244,4 @@ image_picker	KYC / 上传
 ✔ App 白标
 ✔ 可对接第三方流动性
 
+二开需求联系tg: @maotouying_cc
