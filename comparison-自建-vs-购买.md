@@ -291,6 +291,4 @@
 
 **联系我们，开启您的交易所之旅！**
 
-📧 邮箱：contact@example.com
-💬 微信：[您的微信号]
-🌐 网站：[您的网站]
+联系tg:  @maotouying_cc
