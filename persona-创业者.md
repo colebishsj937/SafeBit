@@ -489,11 +489,8 @@ Week 6: 软启动 → 正式上线
 ---
 
 **联系我们，开启您的创业之旅！**
+tg:  @maotouyingcc_bot
 
-📧 **邮箱**：contact@example.com
-💬 **微信**：[您的微信号]
-🌐 **网站**：[您的网站]
-📱 **电话**：[您的电话]
 
 **支持语言**：中文 / English / Việt Nam / ไทย / Bahasa Indonesia
 
